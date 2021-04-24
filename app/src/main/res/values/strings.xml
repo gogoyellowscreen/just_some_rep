@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PinApp</string>
+    <string name="enter_pin_to_get_access_to_app">enter pin to get access to app</string>
+    <string name="create_pin">create pin</string>
+    <string name="confirm_pin">confirm pin</string>
+    <string name="create_new_pin">create new pin</string>
+    <string name="welcome">WELCOME</string>
+    <string name="change_pin">change pin</string>
+</resources>
